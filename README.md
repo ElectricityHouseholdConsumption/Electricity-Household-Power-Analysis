@@ -18,7 +18,7 @@ This project analyzes electricity consumption in a household of four (two adults
 
 |    Column Name    |          Description          |
 |-------------------|-------------------------------|
-| date |            | Consumption date              |
+| date |            | Constumption date             |
 | beat_start_time   | Time by hours and minutes     |
 | kwh_consumption   | Amount of consumption         |
 | price_per_kWh_ils | Consumption price rate by ILS |
