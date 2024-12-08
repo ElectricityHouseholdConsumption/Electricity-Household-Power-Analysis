@@ -16,11 +16,14 @@ This project analyzes electricity consumption in a household of four (two adults
 
 ### Columns
 
-| Column Name | Description |
-|-------------|-------------|
-| Date | Date of the recorded consumption |
-| Beat_start_time | Time of the 15 mins recorded consumption |
-| Electricity_Consumption_kWh | Amount of electricity consumed in kilowatt-hours |
+|    Column Name    |          Description          |
+|-------------------|-------------------------------|
+| date |            | Consumption date              |
+| beat_start_time   | Time by hours and minutes     |
+| kwh_consumption   | Amount of consumption         |
+| price_per_kWh_ils | Consumption price rate by ILS |
+
+
 
 ### Data Source
 
