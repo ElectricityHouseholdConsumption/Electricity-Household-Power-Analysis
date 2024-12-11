@@ -2,8 +2,7 @@
 
 ## 🏠 Project Overview
 
-This project analyzes electricity consumption in a household of four (two adults and two children) located in Israel. The primary objectives are to:
-
+This project analyzes electricity consumption in a household located in Israel. The primary objectives are to:
 - Understand patterns of energy usage
 - Identify the most cost-effective plan based on energy usage
 
